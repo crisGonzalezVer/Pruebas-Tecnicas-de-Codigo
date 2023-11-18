@@ -25,6 +25,7 @@ function mayusMinus(texto) {
 
     if (contadorMayus > contadorMinus){
         return texto.toUpperCase();
+        
     }
 
     return texto.toLowerCase();
